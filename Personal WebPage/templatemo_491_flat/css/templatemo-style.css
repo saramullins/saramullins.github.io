@@ -434,3 +434,18 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 	.cd-hero-slider .cd-full-width { padding-top: 0; }
 	.cd-hero-slider .tm-text { font-size: 1em; }
 }
+
+.projectlinks {
+	list-style-type: none;
+	padding: 0;
+}
+
+.project {
+	text-align: center;
+	padding: 20px;
+	margin: 25px;
+	border-radius: 20px;
+	text-decoration: none;
+	display: block;
+	background-color: white;
+}
